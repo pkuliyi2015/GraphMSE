@@ -6,6 +6,8 @@ We highly recommend that you run our scripts to test its efficiency and high-per
 
 The model settings and hyperparameters in scripts are exactly the same as corresponding experiment settings in our paper. We conduct all experiments with Python 3.7 and Pytorch 1.5.1, while other versions of Python or Pytorch may be applicable.
 
+Before start, please unzip the data.zip in /data/ folder. 
+
 For each experiment, we write separate scripts which start with "run_". Thus, reproducing our experiment results becomes very convenient. Here are instructions:
 
 ## Node Classification
